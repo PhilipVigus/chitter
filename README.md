@@ -1,4 +1,5 @@
 # Chitter
+![Chitter screenshot](chitter-screenshot.png)
 
 This is a simplified clone of Twitter, including authorisation, posting tweets, commenting and liking. The motivations for completing this project were as follows:
 
