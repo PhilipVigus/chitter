@@ -14,6 +14,8 @@ I specifically chose to implement this project as two separate repositories, one
 - [front end](https://github.com/PhilipVigus/chitter-typescript-frontend)
 - [back end](https://github.com/PhilipVigus/chitter-typescript-backend)
 
+The project is deployed and can be tried [here!](https://chitter-ts.netlify.app/)
+
 ## Technologies used
 
 | Purpose | Technology |
